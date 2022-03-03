@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956898138026",
+    "project_id": "user-ad854",
+    "storage_bucket": "user-ad854.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956898138026:android:4b08b61e230a89ac67fdd3",
+        "android_client_info": {
+          "package_name": "com.yalimart.grocers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956898138026-79snnsfcl1m3leak9pt30uau625qn9p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD65ptxNdoQBeC6U2zd-GaWsf1FY6RJQyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956898138026-79snnsfcl1m3leak9pt30uau625qn9p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
